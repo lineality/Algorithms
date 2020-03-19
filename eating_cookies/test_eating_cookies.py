@@ -18,3 +18,7 @@ class Test(unittest.TestCase):
 
 if __name__ == '__main__':
   unittest.main()
+
+Today you sturdies:
+A First-Pass Solution
+https://forms.lambdaschool.com/module-retrospective

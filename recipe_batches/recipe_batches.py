@@ -39,6 +39,7 @@ def recipe_batches(recipe, ingredients):
             exists = True
         else:
             exists = False
+            # replace with optimal make first option
 
         # print(key)
         # print("recipe", value)
